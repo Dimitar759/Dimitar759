@@ -3,8 +3,10 @@
 Welcome to my GitHub profile!
 
 ## My Most Used Languages
+<div style="width: 100%;">
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=donut)](https://github.com/Dimitar759/github-readme-stats)
+    </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=donut)](https://github.com/Dimitar759/github-readme-stats)
 
 ## GitHub Stats
 
@@ -16,7 +18,7 @@ Welcome to my GitHub profile!
     </div>
     <div style="width: 50%;"
         <a href="https://github.com/Dimitar759/github-readme-stats#gh-dark-mode-only">
-            <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=radical" alt="Dimitar's GitHub stats-Dark" style="width: 50%;">
+            <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=radical" alt="Dimitar's GitHub stats-Dark" style="width: 100%;">
         </a>
     </div>
 </div>
