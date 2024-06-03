@@ -2,11 +2,9 @@
 
 Welcome to my GitHub profile!
 
-## My Most Used Languages
+## My Most Used Languages & GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
-## GitHub Stats
 
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/Dimitar759/github-readme-stats#gh-light-mode-only">
