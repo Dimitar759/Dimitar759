@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## My Most Used Languages
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact)](https://github.com/Dimitar759/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact)](https://github.com/Dimitar759/github-readme-stats)
 
 ## GitHub Stats
 
