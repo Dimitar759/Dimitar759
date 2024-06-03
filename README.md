@@ -4,13 +4,15 @@ Welcome to my GitHub profile!
 
 ## My Most Used Languages & GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: flex; flex-direction: row;">
-    <a href="https://github.com/Dimitar759/github-readme-stats#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=default#gh-light-mode-only" alt="Dimitar's GitHub stats-Light" style="width: 45%;">
-    </a>
-    <a href="https://github.com/Dimitar759/github-readme-stats#gh-dark-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=radical" alt="Dimitar's GitHub stats-Dark" style="width: 45%; margin-left: 10px;">
-    </a>
+    <div style="width: 50%;">
+        <a href="https://github.com/Dimitar759/github-readme-stats#gh-light-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=pie" alt="Dimitar's Top Languages" style="width: 100%;">
+        </a>
+    </div>
+    <div style="width: 50%;">
+        <a href="https://github.com/Dimitar759/github-readme-stats#gh-light-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=default#gh-light-mode-only" alt="Dimitar's GitHub Stats" style="width: 100%;">
+        </a>
+    </div>
 </div>
