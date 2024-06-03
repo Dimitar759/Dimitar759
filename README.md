@@ -8,6 +8,7 @@ Welcome to my GitHub profile!
             <img src="[https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=default#gh-light-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact)" alt="Dimitar's GitHub stats-Light" style="width: 50%;">
         </a>
     </div>
+    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact)
 
 ## GitHub Stats
