@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## My Most Used Languages &  GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=donut)](https://github.com/Dimitar759/github-readme-stats)
 
 <div style="display: flex; flex-direction: row;">
     <div style="width: 50%;">
