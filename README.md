@@ -3,7 +3,11 @@
 Welcome to my GitHub profile!
 
 ## My Most Used Languages
-
+ <div style="width: 50%;">
+        <a href="https://github.com/Dimitar759/github-readme-stats">
+            <img src="[https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=default#gh-light-mode-only](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact)" alt="Dimitar's GitHub stats-Light" style="width: 50%;">
+        </a>
+    </div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact)
 
 ## GitHub Stats
