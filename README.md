@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## My Most Used Languages
 
-<div style="width: 50%; margin: auto;">
+<div style="width: 50%; margin: 0 25% 0 25%;">
     <a href="https://github.com/Dimitar759/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact" alt="Dimitar's GitHub stats-Light" style="width: 60%;">
     </a>
@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 ## GitHub Stats
 
-<div style="display: flex; flex-direction: row; margin: auto;">
+<div style="display: flex; flex-direction: row; margin:  0 25% 0 25%;">
     <div style="width: 50%;">
         <a href="https://github.com/Dimitar759/github-readme-stats#gh-light-mode-only">
             <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=default#gh-light-mode-only" alt="Dimitar's GitHub stats-Light" style="width: 70%;">
