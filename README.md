@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 # Hello, I'm Dimitar Nikolov
 
 Welcome to my GitHub profile!
@@ -23,4 +25,6 @@ Welcome to my GitHub profile!
             <img src="https://github-readme-stats.vercel.app/api?username=Dimitar759&show_icons=true&theme=radical" alt="Dimitar's GitHub stats-Dark" style="width: 70%;">
         </a>
     </div>
+</div>
+
 </div>
