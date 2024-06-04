@@ -2,7 +2,7 @@
 
 # Hello, I'm Dimitar Nikolov
 
-Web development is my passion, and I've dedicated myself to mastering it.
+Software development is my passion, and I've dedicated myself to mastering it.
 
 I've always been a natural problem solver, curious about the inner workings of websites and applications
 I've completed several projects that showcase my abilities, and I invite you to explore them at my GitHub account to see firsthand what I can bring to your projects.
