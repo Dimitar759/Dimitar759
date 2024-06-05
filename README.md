@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 # Hello, I'm Dimitar Nikolov
 
@@ -15,11 +15,11 @@ I am enthusiastic about connecting with fellow software engineers and industry p
 I'm a passionate full-stack developer crafting user-friendly interfaces and powerful back-end solutions. Committed to constant improvement and dedicated to learning new things. Let's shape the future, one line of code at a time!
 
 <div>
-  <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"></a>
+<!--   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"></a> -->
   <a href="https://www.linkedin.com/in/dimitar-nikolov-425b34257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/yourusername/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website"></a>
+  <a href="https://www.instagram.com/dimitar_nikolov__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+<!--   <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> -->
+<!--   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website"></a> -->
 </div>
 
 ## Languages & Technologies I use:
