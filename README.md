@@ -7,12 +7,8 @@ Software development is my passion, and I've dedicated myself to mastering it.
 I've always been a natural problem solver, curious about the inner workings of websites and applications.
 I've completed several projects that showcase my abilities, and I invite you to explore them on my GitHub account to see firsthand what I can bring to your projects.
 
-I am proficient in a variety of programming languages and frameworks, including CSS, HTML, JavaScript, C#, ASP.NET, Bootstrap, Angular, Typescript, and SQL. However, I am always eager to learn and add new skills to my repertoire to stay competitive in the ever-changing job market.
-
-I am enthusiastic about connecting with fellow software engineers and industry professionals. Feel free to reach out—I'm always open to networking and collaborating on exciting projects.
-
 ## Want to learn more about me?
-I'm a passionate full-stack developer crafting user-friendly interfaces and powerful back-end solutions. Committed to constant improvement and dedicated to learning new things. Let's shape the future, one line of code at a time!
+I'm a passionate full-stack developer crafting user-friendly interfaces and back-end solutions. Committed to constant improvement and dedicated to learning new things. Let's shape the future, one line of code at a time!
 
 <div>
 <!--   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"></a> -->
@@ -24,16 +20,26 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and powe
 
 ## Languages & Technologies I use:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<!-- HTML5 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<!-- CSS3 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+<!-- JavaScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<!-- TypeScript -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<!-- C# -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+<!-- ASP.NET -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40"/>
+<!-- Bootstrap -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+<!-- Angular -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+<!-- SQL -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/>
+<!-- Node.js -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 
 ## Software I use:
 
