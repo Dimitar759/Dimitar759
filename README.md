@@ -37,7 +37,7 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and back
 <!-- Angular -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
 <!-- SQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL" width="40" height="40"/>
 <!-- Node.js -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 
