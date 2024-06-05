@@ -16,7 +16,7 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and powe
 
 <div>
   <a href="https://yourportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/yourusername/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dimitar-nikolov-425b34257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/yourusername/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" alt="Website"></a>
