@@ -54,4 +54,3 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and powe
 
 </div>
 
-## My GitHub Stats
