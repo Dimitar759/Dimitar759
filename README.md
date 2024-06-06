@@ -46,7 +46,7 @@ I'm a passionate full-stack developer crafting user-friendly interfaces and powe
 
 ## My Most Used Languages
 
-<div style=" margin: 0 auto;">
+<div style="">
   <a href="https://github.com/Dimitar759/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimitar759&layout=compact" alt="Dimitar's GitHub stats" style="width: 100%;">
   </a>
